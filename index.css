@@ -1,6 +1,7 @@
 body
 {
     background-image: url(ma_photo_mini.jpg);
+     background-repeat: no-repeat;
 
     background-position: center;
     color: rgb(18, 105, 6);
