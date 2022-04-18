@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(ma_photo_mini.jpg);
+
+    background-position: center;
+    color: rgb(18, 105, 6);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3
+{
+    font-size: 50px;
+}
+button
+{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+}
+#s-btn
+{
+background-color: darkgreen;
+}
+#i-btn
+{
+background-color: darkred;
+}
